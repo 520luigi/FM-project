@@ -5,26 +5,31 @@ This is a Filemaker Project, to access the filemaker, you need to download Filem
 
 Admin (full access)
 Username: admin
+
 Password: password
 
 
 Executive Team
-username: Executive
-password: password
+Username: Executive
+
+Password: password
 
 
 Operations
 Username: Operations
+
 Password: password
 
 
 Program Manager
 Username: Program
+
 Password: password
 
 
 Attendee
 Username: Attendee
+
 Password:
 
 The Tic Tac Toe doesn't require any password. 
