@@ -3,9 +3,9 @@
 
 This is a Filemaker Project, to access the filemaker, you need to download Filemaker Pro and open the files. The access code for the project is:
 
-username: luigi
+username: admin
 
-password: 1234
+password: password
 
 The Tic Tac Toe doesn't require any password. 
 
